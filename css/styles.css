@@ -1,0 +1,22 @@
+html {
+box-sizing: border-box;
+}
+*, *:before, *:after {
+box-sizing: inherit;
+}
+
+body{
+    background: #eeeeee;
+    font-family: Helvetica, Georgia, Arial;
+}
+
+.title{
+    color:#A615EA;
+    font-size: 24px;
+    text-align: center;
+}
+
+ul a{
+    color:#EAA615;
+    font-size: 16px;
+}
